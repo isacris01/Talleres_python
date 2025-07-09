@@ -270,12 +270,3 @@ agregar = float(input("Escribe un nuevo precio para agregar: "))
 precios.append(agregar)
 precios.sort()
 print(f"Lista actualizada y ordenada:, {precios}")
-
-
-
-
-
-
-
-
-
